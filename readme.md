@@ -1,6 +1,6 @@
 
-
-# Web Hosting Landing Page
+# Project 11 by iNeuron
+# Web Hosting Landing Page 
 
 ### This is basically a fully blown website project made in HTML/CSS with 1 to 2 web pages which displays its services, unlimited support, various subscription packages, testimonial and more things 
 
@@ -20,5 +20,5 @@
 ### 👉 Learn how to use a grid for footer columns and pricing cards
 
 
-## 📌 Acknowledgments
+## 📌 Acknowledgment
 ### Course Instructor - Hitesh Choudhary
